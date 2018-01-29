@@ -2,6 +2,7 @@
     "name": "pear/XML_HTMLSax3",
     "type": "library",
     "autoload": {
+        "files": ["fix_constant.php"],
         "classmap": ["XML/"]
     }
 }
